@@ -1,7 +1,7 @@
 
 
 
-## Hi there 👋 I'm Minha !
+# Hi there 👋 I'm Minha !
 
 > **비즈니스적 사고와 기술적 구현을 잇는 개발자**를 꿈꾸고 있습니다.  
 
