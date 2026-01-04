@@ -34,23 +34,10 @@ bexemen@gmail.com
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-
-
-<br>
-
-
-## 🧑‍💻 Experiences
-
-
-| 활동 내역 | 기간 |
-
+![Figma](https://img.shields.io/badge/Figma-F24E1E?styl명 | 기간 |
 | :---: | :---: |
-
-| 신한투자증권 프로디지털아카데미 7기 | 2025.12 -  |
-
-| 코드잇 부스트 1기 | 2024.04 - 2025.02 |
+| **신한투자증권 프로디지털아카데미 7기** | 2025.12 -  |
+| **코드잇 부스트 1기 백엔드 파트** | 2024.04 - 2025.02 |
 
 
 <br>
