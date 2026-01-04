@@ -37,6 +37,12 @@ bexemen@gmail.com
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
+
+<br>
+
+
+## 🧑‍💻 Experiences
+
 | 활동명 | 기간 |
 | :---: | :---: |
 | **신한투자증권 프로디지털아카데미 7기** | 2025.12 -  |
