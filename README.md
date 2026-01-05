@@ -6,14 +6,14 @@
 > **비즈니스적 사고와 기술적 구현을 잇는 개발자**를 꿈꾸고 있습니다.  
 
 
-### 📬 Contact
+## 📬 Contact
 <a href="mailto:bexemen@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
 
 ---
 
-### 📚 Tech Stack
+## 📚 Tech Stack
 
 #### 🌐 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
@@ -33,7 +33,7 @@
 
 ---
 
-### 📊 GitHub Stats & Languages
+## 📊 GitHub Stats & Languages
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kminnaaa&theme=monokai" width="48%" />
@@ -43,7 +43,7 @@
 
 ---
 
-### 📝 Core Interests
+## 📝 Core Interests
 * ☕ **Backend Deep Dive**
 * 📈 **Financial Data Analysis**
 * 🧩 **Problem Solving**
